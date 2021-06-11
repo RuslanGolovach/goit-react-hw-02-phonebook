@@ -1,0 +1,25 @@
+.List {
+  list-style: none;
+  margin: 0 auto;
+}
+
+.ItemList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+.Text {
+  color: royalblue;
+}
+
+.DeleteBtn {
+  margin-left: 8px;
+  background-color: red;
+  color: aliceblue;
+  cursor: pointer;
+}
